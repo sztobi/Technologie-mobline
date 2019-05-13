@@ -1,0 +1,49 @@
+body
+{
+	font-family: Arial, Verdana, sans-serif;
+	color: #111111;
+	margin-left: auto;
+}
+
+#container
+{
+	background-color: #9fd5fc;
+	width:1000px;
+	margin: auto;
+	padding: 2px;
+	padding-bottom:20px;
+}
+
+#tytultabeli
+{
+	margin-top: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	font-size: 200%;
+}
+
+table
+{
+	width: 500px;
+	margin: auto;
+	background-color: #e1f2ed;
+}
+
+td
+{
+	padding: 5px;
+}
+
+th
+{
+	text-transform: uppercase;
+	padding: 5px;
+	letter-spacing: 0.2em;
+	background-color: #bababa;
+}
+
+#przycisk
+{
+	text-align: center;
+}

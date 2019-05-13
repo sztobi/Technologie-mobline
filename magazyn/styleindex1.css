@@ -1,0 +1,29 @@
+body
+{
+	font-family: Arial, Verdana, sans-serif;
+	color: #111111;
+	margin-left: auto;
+}
+
+h1
+{
+	text-align: center;
+}
+
+#container
+{
+	background-color: #9fd5fc;
+	width:500px;
+	margin: auto;
+	padding: 2px;
+	padding-bottom:20px;
+	text-align: center;
+
+}
+
+#wybieranie
+{
+	margin: auto;
+	padding: 2px;
+	text-align: center;
+}
